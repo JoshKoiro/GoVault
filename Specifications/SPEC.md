@@ -60,43 +60,42 @@ GoVault aims to provide a secure, user-friendly, and decentralized platform for 
 
 ## Development Phases
 
-See a detailed breakdown of development phases using the following links:
-- [Phase 1](/developmentPhases/Phase1.md)
-- [Phase 1 Testing](/developmentPhases/Phase1Testing.md)
-
 ### Phase 1: Prototype Development
    - Basic peer-to-peer connectivity and file transfer capabilities.
    - Command-line interface (CLI) for file operations.
 
 See the following links for more information about phase 1
-   - [Phase 1](/developmentPhases/Phase1.md)
-   - [Phase 1 Testing](/developmentPhases/Phase1Testing.md)
+- [Phase 1](https://github.com/JoshKoiro/GoVault/blob/doc/Specifications/developmentPhases/Phase1.md)
+- [Phase 1 Testing](https://github.com/JoshKoiro/GoVault/blob/doc/Specifications/developmentPhases/Phase1Testing.md)
 
 ### Phase 2: Security and Identity
    - Integration of authentication, authorization, and encryption mechanisms.
    - Development of the decentralized identity system.
 
 see below for more information about phase 2 development
-   [Phase 2](/developmentPhases/Phase2.md)
+   [Phase 2](https://github.com/JoshKoiro/GoVault/blob/doc/Specifications/developmentPhases/Phase2.md)
 
 ### Phase 3: User Interface and Experience
    - Development of graphical user interface (GUI) for easier interaction.
    - Enhancement of user experience with additional features like search and file previews.
 
 see below for more information about phase 2 development
-   [Phase 3](/developmentPhases/Phase3.md)
+   [Phase 3](https://github.com/JoshKoiro/GoVault/blob/doc/Specifications/developmentPhases/Phase3.md)
 
 ### Phase 4: Testing and Optimization
    - Comprehensive testing across different network conditions and platforms.
    - Performance optimization and scalability enhancements.
 
+See below for more information about phase 4:
+[Phase 4](https://github.com/JoshKoiro/GoVault/blob/doc/Specifications/developmentPhases/Phase4.md)
+
 ## Collaboration Tools
 
-- **Version Control**: [Github](https://www.github.com) for source code management and collaboration using the [Gitflow](/gitflow.md) methodology.
+- **Version Control**: [Github](https://www.github.com) for source code management and collaboration using the [Gitflow](https://github.com/JoshKoiro/GoVault/blob/doc/Specifications/gitflow.md) methodology.
 
 ## Licencing
 
-This project is licenced under the GLWTS Public Licence found [here](/LICENCE)
+This project is licenced under the MIT License
 
 ## System Design Diagram
 ```mermaid
