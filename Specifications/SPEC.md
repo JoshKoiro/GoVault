@@ -1,5 +1,7 @@
 # Project Name: GoVault - Decentralized Secure File Sharing (DSFS)
 
+![Logo](/GoVault%20Logo.png)
+
 ## Overview
 GoVault aims to provide a secure, user-friendly, and decentralized platform for sharing files among authenticated users. Leveraging peer-to-peer technology, the system ensures privacy, security, and accessibility without relying on centralized servers.
 
